@@ -11,6 +11,7 @@ This project is a simple yet interactive sorting algorithm visualizer built usin
 **Key Features:**
 
 *Speed Control:*  Adjust the speed of the animations for a better understanding of the sorting process.  
+*Customizable Input:* You can generate random arrays of different sizes to see how each algorithm performs on various datasets.  
 *Responsive Design:*  The visualizer adapts to different screen sizes, ensuring smooth interaction on various devices.  
 *Color Indicators:*  
 Yellow/Orange: Highlight the current and comparing elements.  
